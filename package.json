@@ -25,5 +25,12 @@
 		"not dead",
 		"not ie <= 11",
 		"not op_mini all"
-	]
+	],
+	"author": "Anand Undavia <abundavia@gmail.com>",
+	"homepage": "http://anand-undavia.dev",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/anandundavia/anand-undavia-dev.git"
+	},
+	"license": "MIT"
 }

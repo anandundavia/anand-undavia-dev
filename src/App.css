@@ -1,4 +1,5 @@
 .container {
+	background-color: rgb(232, 234, 237);
 	height: 100vh;
 	display: flex;
 	justify-content: center;
@@ -12,7 +13,7 @@
 	background-color: #cdcdcd;
 	border-radius: 4px;
 	box-shadow: 0px 1px 1px black;
-	animation: change-color 10s infinite linear;
+	animation: change-color 6s infinite ease-in-out;
 }
 
 .text code {
@@ -25,7 +26,7 @@
 		background-color: #cdcdcd;
 	}
 	50% {
-		background-color: white;
+		background-color: rgb(232, 234, 237);
 	}
 	100% {
 		background-color: #cdcdcd;
